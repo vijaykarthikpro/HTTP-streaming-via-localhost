@@ -8,5 +8,5 @@ Simple NodeJS code for streaming video, uploading file and storing in localhost.
 - > node .
 
 ### Run in website: 
-localhost:3000 - to upload any file and save it
-localhost:3000/video - to watch the video
+- localhost:3000 - to upload any file and save it
+- localhost:3000/video - to watch the video
